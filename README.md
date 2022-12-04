@@ -1,17 +1,13 @@
-# Moiz Habib&nbsp;<img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Moiz Habib
 
-
-<img align="right" alt="PC GIF" src="https://github.com/moizhabib/moizhabib/blob/master/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Earth.gif" width="24px">
+## **Hello world!**
 
 <p>
   <em>
-    I am a recent CS Grad from Osmania University</a>.  
-    A budding <b>DevOps Engineer</b> <img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cybersecurity Enthusiast,</b><img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    I am a recent CS Grad from Osmania University. A budding <b>DevOps Engineer</b> and a <b>Cybersecurity Enthusiast,</b> who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b>and 
+    <b>excel.</b>
   </em>  
 </p>
 
@@ -34,15 +30,6 @@
 
 <a href="https://github.com/moizhabib">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moizhabib&show_icons=true&theme=dark&line_height=27" alt="Moiz Habib's github stats"/>
-</a>
-
-
-<a href="https://github.com/moizhabib/moizhabib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moizhabib&repo=moizhabib&theme=dark" />
-</a>
-
-<a href="https://github.com/moizhabib/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moizhabib&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
 
 
