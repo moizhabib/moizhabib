@@ -1,9 +1,7 @@
 # Moiz Habib&nbsp;<img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/moizhabib/moizhabib.svg)](http://hits.dwyl.com/moizhabib/moizhabib) 
--->
+[![HitCount](http://hits.dwyl.com/moizhabib/moizhabib.svg)](http://hits.dwyl.com/moizhabib/moizhabib) 
 
 <img align="right" alt="PC GIF" src="https://github.com/moizhabib/moizhabib/blob/master/Assets/PC.gif" width="190" />
 
@@ -51,9 +49,6 @@
 
 <br>
 
-![Moiz Habib's github stats](https://github-readme-stats.vercel.app/api?username=moizhabib&show_icons=true&hide_border=true)
-
-![Dino](https://github.com/moizhabib/moizhabib/blob/master/Assets/dino.gif)
 
 <a href="https://in.linkedin.com/in/moizhabib">
     <img align="left" alt="Moiz Habib | Linkedin" width="24px" src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Linkedin.svg" />
@@ -68,11 +63,6 @@
     <img align="left" alt="Moiz Habib | Gmail" width="26px" src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Gmail.svg" />
   </a>
   
-  
-  
-| [<img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Linkedin.svg" alt="Moiz Habib | Linkedin" width="34">](https://in.linkedin.com/in/moizhabib) | [<img src="https://github.com/moizhabib/moizhabib/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
-|---|---|---|---|---|---|---|---|
-
 
 
 
