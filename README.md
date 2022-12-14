@@ -6,7 +6,7 @@
   <em>
     I am a recent CS Grad from Osmania University. A budding <b>DevOps Engineer</b> and a <b>Cybersecurity Enthusiast,</b> who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <i>grow</i>and 
+    <b>grow</b> and 
     <b>excel.</b>
   </em>  
 </p>
