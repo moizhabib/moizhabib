@@ -6,7 +6,7 @@
   <em>
     I am a recent CS Grad from Osmania University. A budding <b>DevOps Engineer</b> and a <b>Cybersecurity Enthusiast,</b> who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b>and 
+    <i>grow</i>and 
     <b>excel.</b>
   </em>  
 </p>
@@ -17,6 +17,7 @@
 - I’m *currently learning* how to **flex README** on my **profile** 💪.
 - I’m *looking to collaborate* on **python 🐍 projects**.
 - *Ask me* about **why do I think aliens 👽 exist.**
+- * just stick to one technology at a time. *
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
